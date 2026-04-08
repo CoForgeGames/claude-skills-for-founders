@@ -1,6 +1,6 @@
 # Claude Skills for Founders
 
-> Production-ready Claude system prompts used to build [ReQuested](https://requested.gg) — a B2B marketplace for the video game industry — as a solo founder.
+> Production-ready Claude system prompts used to build [ReQuested](https://requestedgames.com) — a B2B marketplace for the video game industry — as a solo founder.
 
 These are not tutorial prompts. They are the actual system prompts I run in production, every week, to replace functions that would otherwise require a team.
 
@@ -105,8 +105,8 @@ Format: one skill per `.md` file, following the template in [TEMPLATE.md](TEMPLA
 **Antoine Defer** — Solo founder, AI-native builder.
 Building [ReQuested](https://requestedgames.com) at the intersection of product, AI and the video game industry.
 
-[LinkedIn](www.linkedin.com/in/antoine-defer-6385b221b) · [Email](mailto:defer.antoine@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/antoine-defer-6385b221b) · [Email](mailto:defer.antoine@gmail.com)
 
 ---
 
-*These prompts are open source (MIT). Use them, fork them, improve them.
+*These prompts are open source (MIT). Use them, fork them, improve them.*
